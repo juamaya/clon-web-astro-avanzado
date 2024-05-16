@@ -1,6 +1,6 @@
 ---
 title: "Deploy App Reactjs"
-heroImage: "/assets/vite.jpg"
+heroImage: "/clon-web-astro-avanzado/assets/vite.jpg"
 pubDate: "May 20 2024"
 tags: ["React", "Deploy"]
 ---

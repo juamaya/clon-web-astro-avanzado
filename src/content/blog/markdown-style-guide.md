@@ -1,6 +1,6 @@
 ---
 title: 'Markdown Style Guide'
-heroImage: '/assets/markdown.jpg'
+heroImage: '/clon-web-astro-avanzado/assets/markdown.jpg'
 pubDate: 'Jul 01 2024'
 
 

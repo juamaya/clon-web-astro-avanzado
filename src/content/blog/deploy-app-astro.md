@@ -1,7 +1,7 @@
 ---
 title: "Deploy App Astro"
 pubDate: "May 15 2024"
-heroImage: "/assets/astro1.jpg"
+heroImage: "/clon-web-astro-avanzado/assets/astro1.jpg"
 tags: ["Astro", "Deploy"]
 ---
 

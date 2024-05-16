@@ -1,6 +1,6 @@
 ---
 title: "Create and Deploy App Docusaurus"
-heroImage: "/assets/docusaurus.jpg"
+heroImage: "/clon-web-astro-avanzado/assets/docusaurus.jpg"
 pubDate: "May 30 2024"
 tags: ["Docusaurus", "Deploy"]
 ---
