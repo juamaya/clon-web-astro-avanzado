@@ -1,7 +1,7 @@
 ---
 title: "Recursos Web"
 pubDate: "May 20 2024"
-heroImage: "/clon-web-astro-avanzado/assets/recursosWeb.jpg"
+heroImage: "/clon-web-astro-avanzado/assets/recursosWeb1.jpg"
 tags: ["Recursos", "Dev"]
 ---
 
@@ -15,7 +15,7 @@ tags: ["Recursos", "Dev"]
 ---
 ###  * Este enlace contiene un chat de AI. 
 
-[blackbox.ai](https://www.blackbox.ai/)
+[https://www.blackbox.ai](https://www.blackbox.ai/)
 
 ---
 

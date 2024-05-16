@@ -43,6 +43,8 @@ IMAGE[^2]
 ```markdown
 ![Alt text](/clon-web-astro-avanzado/assets/blog-placeholder-2.jpg)
 
+```
+
 #### Output
 
 ![blog placeholder](/clon-web-astro-avanzado/assets/blog-placeholder-2.jpg)
@@ -97,9 +99,13 @@ The blockquote element represents content that is quoted from another source, op
 #### Syntax
 
 ```markdown
+
 | Italics   | Bold     | Code   |
 | --------- | -------- | ------ |
 | _italics_ | **bold** | `code` |
+| _juan_    |**marin** | `55`   |
+| _luis_    |**perez** | `65`   |
+
 ```
 
 #### Output
