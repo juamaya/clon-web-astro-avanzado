@@ -15,7 +15,7 @@ tags: ["Recursos", "Dev"]
 ---
 ###  * Este enlace contiene un chat de AI. 
 
-#### [blackbox.ai](https://www.blackbox.ai/)
+[blackbox.ai](https://www.blackbox.ai/)
 
 ---
 
