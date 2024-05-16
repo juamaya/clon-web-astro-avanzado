@@ -6,17 +6,18 @@ tags: ["Recursos", "Dev"]
 ---
 
 
-
-# <mark> MIS RECURSOS WEB </mark>
+ 
 
 
 
 ![recursos](/clon-web-astro-avanzado/assets/recursosWeb.jpg)
 
 ---
+###  * Este enlace contiene un chat de AI. 
 
+#### [blackbox.ai](https://www.blackbox.ai/)
 
-[blackbox.ai](https://www.blackbox.ai/)
+---
 
 ###  * En estos enlaces contiene varios recursos. 
 
@@ -48,7 +49,7 @@ tags: ["Recursos", "Dev"]
 
 ### \* Quitar fondo de Imágenes.
 
-[remove.bg](https://www.remove.bg/)
+[https://www.remove.bg](https://www.remove.bg/)
 
 [cleanup.pictures](https://cleanup.pictures/)
 
