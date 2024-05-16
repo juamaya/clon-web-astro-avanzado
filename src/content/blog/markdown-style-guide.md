@@ -41,11 +41,11 @@ IMAGE[^2]
 #### Syntax
 
 ```markdown
-![Alt text](/assets/blog-placeholder-2.jpg)
+![Alt text](/clon-web-astro-avanzado/assets/blog-placeholder-2.jpg)
 
 #### Output
 
-![blog placeholder](/assets/blog-placeholder-2.jpg)
+![blog placeholder](/clon-web-astro-avanzado/assets/blog-placeholder-2.jpg)
 
 
 
