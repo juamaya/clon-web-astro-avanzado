@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://juamaya.github.io",
+  site: "https://juamaya.github.io/clon-web-astro-avanzado",
  
   integrations: [
     tailwind(),
