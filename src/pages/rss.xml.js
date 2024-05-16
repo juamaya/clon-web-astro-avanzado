@@ -15,7 +15,7 @@ export async function GET(context) {
     // See "Generating items" section for examples using content collections and glob imports
     items: posts.map((post) => ({
       ...post.data,
-      link: `/blog/${post.slug}`,
+      link: `/clon-web-astro-avanzado/blog/${post.slug}`,
     })),
   });
 }
