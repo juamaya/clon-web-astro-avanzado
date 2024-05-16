@@ -31,11 +31,21 @@ https://docs.astro.build/es/guides/deploy/github/
 
 > Desplegando a una URL github.
 
-> Configura las opciones site y, si es necesario, base en astro.config.mjs.
+> Configura las opciones <mark>site</mark> y, si es necesario, <mark>base</mark> en astro.config.mjs.
 
 > Cuando este valor está configurado, todos los enlaces internos de tu página deben tener el prefijo del valor de base:
 
+```astro
 
+import { defineConfig } from 'astro/config'
+
+export default defineConfig({
+  site: 'https://juamaya.github.io',
+  base: 'mi-repo',
+})
+
+```
+---
 
 ```html 
 
@@ -121,6 +131,7 @@ export default defineConfig({
 
 ### ABRIR TERMINAL VScode
 ---
+###  CREAR REPOSITORIO EN TU CUENTA DE GitHub.com
 
 ###  CREAR REPOSITORIO LOCAL
 
@@ -139,7 +150,7 @@ export default defineConfig({
 
 ```
 
-###  CREAR REPOSITORIO REMOTO
+### SUBIR PROYECTO A REPOSITORIO REMOTO
 
 > En la consola situada en la carpeta del proyecto escribimos el comando:
 
@@ -162,8 +173,6 @@ export default defineConfig({
   git add .
 
   git commit -m "deploy app-astro"
-
-  npm run build
  
   git push  
 
